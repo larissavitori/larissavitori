@@ -8,11 +8,20 @@
 </div>
 
 [![graph](https://github-readme-activity-graph.cyclic.app/graph?username=larissavitori&theme=merko)](https://github.com/larissavitori/github-readme-activity-graph)
-
+#
+<div>
+  <h3 align="center">
+	  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1cc5e3ff-37e5-4b9c-abf4-92304fafa4c9/dcnriu1-03d4b980-9350-42b7-8d98-07088a92ab3c.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFjYzVlM2ZmLTM3ZTUtNGI5Yy1hYmY0LTkyMzA0ZmFmYTRjOVwvZGNucml1MS0wM2Q0Yjk4MC05MzUwLTQyYjctOGQ5OC0wNzA4OGE5MmFiM2MuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.AJlZMRUGu5rPFOJxMaqom0fEvY32rCEaee6UBMn4tk4" width="50px" height="50px">
+		 My Soft Skills 
+		<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1cc5e3ff-37e5-4b9c-abf4-92304fafa4c9/dcnriu1-03d4b980-9350-42b7-8d98-07088a92ab3c.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFjYzVlM2ZmLTM3ZTUtNGI5Yy1hYmY0LTkyMzA0ZmFmYTRjOVwvZGNucml1MS0wM2Q0Yjk4MC05MzUwLTQyYjctOGQ5OC0wNzA4OGE5MmFiM2MuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.AJlZMRUGu5rPFOJxMaqom0fEvY32rCEaee6UBMn4tk4" width="50px" height="50px">
+	<h3>
+	<h4 align="center">Empathy, Resilience, Collaboration, Good Listener, Creative, Time Management, Challenges<h4>
+</div>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=larissavitori&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
-
+#
+    
 <div align="center">  
 <a href="www.instagram.com" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 </div>
@@ -53,5 +62,10 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{larissavitori}/count.svg" /></p> 
 <br></div>
   
+  <div align="center">
+  <a href="https://github.com/larissavitori/github-readme-stats"><img height="165em" alt="Fernando Frali's Github Stats" src="https://github-readme-stats.vercel.app/api?username=larissa&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/larissavitori/github-readme-stats"><img height="165em" alt="Larissa Vitoria Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissavitori&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/>
+	</a>
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=220&section=footer"/>
